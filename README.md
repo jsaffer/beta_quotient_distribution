@@ -2,7 +2,7 @@
 
 According to _[Pham-Gia, 2000]_ the probability density function (PDF) of the ratio of two random variables
 
-![](w.png)
+![](w.png =100x)
 
 which each follow the PDFs of beta distributions
 
