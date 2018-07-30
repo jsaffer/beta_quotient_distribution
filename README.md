@@ -2,7 +2,7 @@
 
 According to _[Pham-Gia, 2000]_ the probability density function (PDF) of the ratio of two random variables
 
-![](w.png =100x)
+![](w.png)
 
 which each follow the PDFs of beta distributions
 
@@ -14,15 +14,17 @@ and
 
 respectively where the Beta function B(a,b) is
 
-\mathrm{B}(a,b) = \frac{\Gamma(a)\Gamma(b)}{\Gamma(a+b)},
+![](B.png)
 
 is given by
 
-f(w) = \mathrm{B}(\alpha_1 + \alpha_2, \beta_2) \cdot w^{\alpha_1 - 1} \cdot \frac{{}_2\mathrm{F}_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; w)}{\mathrm{B}(\alpha_1, \beta_1) \cdot \mathrm{B}(\alpha_2, \beta_2)}$ for $0 < w \leq 1
+![](f_l1.png)
 
-and
+for 0 < w < 1 and
 
-$f(w) = \mathrm{B}(\alpha_1 + \alpha_2, \beta_1) \cdot w^{-(1 + \alpha_2)} \cdot \frac{{}_2\mathrm{F}_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; \frac{1}{w})}{\mathrm{B}(\alpha_1, \beta_1) \cdot \mathrm{B}(\alpha_2, \beta_2)}$ for $w \geq 1$
+![](f_g1.png)
+
+for w > 1.
 
 The hypergeometric fuctions 2F1 take the form (see page 40, Yudell L. Luke, 1969)
 
