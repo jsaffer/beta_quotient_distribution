@@ -58,11 +58,17 @@ For the expectation value of a fraction x/y one has:
 
 ![](images/E_frac.png)
 
-with ![](images/E_x.png)
+with
 
-and ![](images/E_yinv.png)
+![](images/E_x.png)
 
-Hence, as result on obtains ![](images/E_complete.png)
+and
+
+![](images/E_yinv.png)
+
+Hence, as result on obtains
+
+![](images/E_complete.png)
 
 
 
