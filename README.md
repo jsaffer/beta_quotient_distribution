@@ -46,11 +46,11 @@ and
 
 one can calculate the integral of the PDF, the cumulative density function (CDF):
 
-![](F_l1.png)
+![](images/F_l1.png)
 
 for w<1 and 
 
-![](F_g1.png)
+![](images/F_g1.png)
 
 for w>1.
 
