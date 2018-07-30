@@ -2,15 +2,15 @@
 
 According to _[Pham-Gia, 2000]_ the probability density function (PDF) of the ratio of two random variables
 
-![Alt text](w.png)
+![](w.png)
 
 which each follow the PDFs of beta distributions
 
-p_{X_1}(x) = \frac{(x)^{\alpha_1 - 1} \cdot (1-x)^{\beta_1 - 1}}{\mathrm{B}(\alpha_1, \beta_1)}
+![](p1.png)
 
 and
 
-p_{X_2}(x) = \frac{(x)^{\alpha_2 - 1} \cdot (1-x)^{\beta_2 - 1}}{\mathrm{B}(\alpha_2, \beta_2)}
+![](p2.png)
 
 respectively where the Beta function B(a,b) is
 
