@@ -2,47 +2,47 @@
 
 According to [1] the probability density function (PDF) of the ratio of two random variables
 
-![](w.png)
+![](images/w.png)
 
 which each follow the PDFs of beta distributions
 
-![](p1.png)
+![](images/p1.png)
 
 and
 
-![](p2.png)
+![](images/p2.png)
 
 respectively where the Beta function B(a,b) is
 
-![](B.png)
+![](images/B.png)
 
 is given by
 
-![](f_l1.png)
+![](images/f_l1.png)
 
 for 0 < w < 1 and
 
-![](f_g1.png)
+![](images/f_g1.png)
 
 for w > 1.
 
 The hypergeometric fuctions 2F1 take the form [2]
 
-![](2F1_l1.png)
+![](images/2F1_l1.png)
 
 for w<1 and
 
-![](2F1_g1.png)
+![](images/2F1_g1.png)
 
 for w>1.
 
 Using the fact that
 
-![](int_1.png)
+![](images/int_1.png)
 
 and
 
-![](int_2.png)
+![](images/int_2.png)
 
 one can calculate the integral of the PDF, the cumulative density function (CDF):
 
