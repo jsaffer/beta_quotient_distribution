@@ -46,11 +46,13 @@ and
 
 one can calculate the integral of the PDF, the cumulative density function (CDF):
 
-mpmath.exp(mpmath.log(mpmath.beta(a1 + a2, b2)) + a1 * mpmath.log(wi) - mpmath.log(a1) + log_hyper_3F2(a1, a1 + a2, 1 - b1, a1 + 1, a1 + a2 + b2, wi) - lnA) for w<1
+![](F_l1.png)
 
-and 
+for w<1 and 
 
-1 - mpmath.exp(mpmath.log(mpmath.beta(a1 + a2, b1)) - a2 * mpmath.log(wi) - mpmath.log(a2) + log_hyper_3F2(a2, a1 + a2, 1 - b2, a2 + 1, a1 + a2 + b1, (1/wi)) - lnA) for w>1
+![](F_g1.png)
+
+for w>1.
 
 Expectation value of fraction a/b: $E\left(\frac{a}{b}\right) = E(a)\cdot E(b^{-1})$
 
