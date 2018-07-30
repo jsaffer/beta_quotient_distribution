@@ -1,6 +1,6 @@
 # Beta quotient distribution
 
-According to _[Pham-Gia, 2000]_ the probability density function (PDF) of the ratio of two random variables
+According to [1] the probability density function (PDF) of the ratio of two random variables
 
 ![](w.png)
 
@@ -26,13 +26,15 @@ for 0 < w < 1 and
 
 for w > 1.
 
-The hypergeometric fuctions 2F1 take the form (see page 40, Yudell L. Luke, 1969)
+The hypergeometric fuctions 2F1 take the form [2]
 
-${}_2F_1(\alpha_1 + \alpha_2, 1-\beta_1; \alpha_1 + \alpha_2 + \beta_2; w) = \sum_{n=0}^{\beta_1-1}(-1)^n \begin{pmatrix} \beta_1-1 \\ n\end{pmatrix} \frac{(\alpha_1+\alpha_2+n-1)!\cdot(\alpha_1+\alpha_2+\beta_2-1)!}{(\alpha_1+\alpha_2+\beta_2+n-1)!\cdot(\alpha_1+\alpha_2-1)!} w^n$ for $w<1$
+![](2F1_l1.png)
 
-and
+for w<1 and
 
-${}_2F_1(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; \frac{1}{w}) = \sum_{n=0}^{\beta_2-1}(-1)^n \begin{pmatrix} \beta_2-1 \\ n\end{pmatrix} \frac{(\alpha_1+\alpha_2+n-1)!\cdot(\alpha_1+\alpha_2+\beta_1-1)!}{(\alpha_1+\alpha_2+\beta_1+n-1)!\cdot(\alpha_1+\alpha_2-1)!} \left(\frac{1}{w}\right)^n$ for $w\geq1$
+![](2F1_g1.png)
+
+for w>1.
 
 Using the fact that
 
@@ -64,7 +66,8 @@ $\Rightarrow E(\frac{a}{b}) = \frac{a_1\cdot(a_2+b_2-1)}{(a_1+b_1)\cdot(a_2-1)}$
 
 
 
-
+[1] _Pham-Gia, T. "Distributions of the ratios of independent beta variables and applications." Communications in Statistics-Theory and Methods 29.12 (2000): 2693-2715._
+[2] _Luke, Yudell L., ed. Special functions and their approximations. Vol. 2. Academic press, 1969._
 
 -----
 
