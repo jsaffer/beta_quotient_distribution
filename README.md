@@ -54,13 +54,15 @@ for w<1 and
 
 for w>1.
 
-Expectation value of fraction a/b: $E\left(\frac{a}{b}\right) = E(a)\cdot E(b^{-1})$
+For the expectation value of a fraction x/y one has:
 
-with $E(a) = \frac{a_1}{a_1+b_1}$
+![](images/E_frac.png)
 
-and $E(b^{-1}) = \int_{-\infty}^{\infty}\frac{b^{a_2-2} (1-b)^{b_2-1}}{B(a_2-1, b_2) \left(\frac{a_2-1}{a_2+b_2-1}\right)}\,\mathrm{d}b = \frac{a_2+b_2-1}{a_2-1}$
+with ![](images/E_x.png)
 
-$\Rightarrow E(\frac{a}{b}) = \frac{a_1\cdot(a_2+b_2-1)}{(a_1+b_1)\cdot(a_2-1)}$
+and ![](images/E_yinv.png)
+
+Hence, as result on obtains ![](images/E_complete.png)
 
 
 
