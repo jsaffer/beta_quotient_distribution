@@ -1,8 +1,8 @@
 # Beta quotient distribution
 
-According to [Pham-Gia, 2000] the probability density function (PDF) of the ratio of two random variables
+According to _[Pham-Gia, 2000]_ the probability density function (PDF) of the ratio of two random variables
 
-W=\frac{X_1}{X_2}
+![Alt text](w.png)
 
 which each follow the PDFs of beta distributions
 
