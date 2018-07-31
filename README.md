@@ -6,15 +6,15 @@ According to [1] the probability density function (PDF) of the ratio of two rand
 
 which each follow the PDFs of beta distributions
 
-![](images/p1.png)
+<img src="images/p1.png" width="100">
 
 and
 
-![](images/p2.png)
+<img src="images/p2.png" width="100">
 
 respectively where the Beta function B(a,b) is
 
-![](images/B.png),
+<img src="images/B.png" width="100">
 
 is given by
 
