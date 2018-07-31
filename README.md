@@ -18,57 +18,57 @@ respectively where the Beta function B(a,b) is
 
 is given by
 
-![](images/f_l1.png)
+<img src="images/f_l1.png" height="50">
 
 for 0 < w < 1 and
 
-![](images/f_g1.png)
+<img src="iamges/f_g1.png" height="50">
 
 for w > 1.
 
 The hypergeometric fuctions 2F1 take the form [2]
 
-![](images/2F1_l1.png)
+<img src="images/2F1_l1.png" height="50">
 
 for w<1 and
 
-![](images/2F1_g1.png)
+<img src="images/2F1_g1.png" height="50">
 
 for w>1.
 
 Using the fact that
 
-![](images/int_1.png)
+<img src="images/int_1.png" height="50">
 
 and
 
-![](images/int_2.png)
+<img src="images/int_2.png" height="50">
 
 one can calculate the integral of the PDF, the cumulative density function (CDF):
 
-![](images/F_l1.png)
+<img src="images/F_l1.png" height="50">
 
 for w<1 and 
 
-![](images/F_g1.png)
+<img src="images/F_g1.png" height="50">
 
 for w>1.
 
 For the expectation value of a fraction x/y one has:
 
-![](images/E_frac.png)
+<img src="images/E_frac.png" height="50">
 
 with
 
-![](images/E_x.png)
+<img src="images/E_x.png" height="50">
 
 and
 
-![](images/E_yinv.png)
+<img src="images/E_yinv.png" height="50">
 
 Hence, as result on obtains
 
-![](images/E_complete.png)
+<img src="images/E_complete.png" height="50">
 
 
 
