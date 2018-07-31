@@ -2,7 +2,7 @@
 
 <img src="images/beta_beta_pdf_cdf.png">
 
-*One example of a beta quotient distribution determined by this script. Blue and green lines show two independent beta distributions with parameters 3, 6 and 12, 7, respectively. Their expectation values are marked with vertival dashed lines. The green curce represents the PDF of the ratio of both random variables, whereas the red dash-dotted line is the respective cumulative distribution. The shaded regions are 90% credible intervals*
+*One example of a beta quotient distribution determined by this script. Blue and green lines show two independent beta distributions with parameters 3, 6 and 12, 7, respectively. Their expectation values are marked with vertival dashed lines. The green curce represents the PDF of the ratio of both random variables, whereas the red dash-dotted line is the respective CDF. The shaded regions are 90% credible intervals.*
 
 According to [1] the probability density function (PDF) of the ratio of two random variables
 
