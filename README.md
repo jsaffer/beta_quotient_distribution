@@ -1,8 +1,10 @@
-# Beta quotient distribution
+# Beta Quotient Distribution
 
 <img src="images/beta_beta_pdf_cdf.png">
 
 *One example of a beta quotient distribution determined by this script. Blue and green lines show two independent beta distributions with parameters 3, 6 and 12, 7, respectively. Their expectation values are marked with vertival dashed lines. The green curce represents the PDF of the ratio of both random variables, whereas the red dash-dotted line is the respective CDF. The shaded regions are 90% credible intervals.*
+
+## The Probability Density
 
 According to [1] the probability density function (PDF) of the ratio of two random variables
 
@@ -40,6 +42,8 @@ for w<1 and
 
 for w>1.
 
+## The Cumulative Distribution
+
 Using the fact that
 
 <img src="images/int_1.png" height="50">
@@ -57,6 +61,8 @@ for w<1 and
 <img src="images/F_g1.png" height="50">
 
 for w>1.
+
+## Expectation Values
 
 For the expectation value of a fraction _x_/_y_ one generally has:
 
