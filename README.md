@@ -54,7 +54,7 @@ for w<1 and
 
 for w>1.
 
-For the expectation value of a fraction x/y one has:
+For the expectation value of a fraction _x_/_y_ one generally has:
 
 <img src="images/E_frac.png" height="50">
 
@@ -65,6 +65,8 @@ with
 and
 
 <img src="images/E_yinv.png" height="50">
+
+in the case of _x_ and _y_ following beta distributions as above.
 
 Hence, as result on obtains
 
