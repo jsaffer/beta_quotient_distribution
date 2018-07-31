@@ -22,7 +22,7 @@ is given by
 
 for 0 < w < 1 and
 
-<img src="iamges/f_g1.png" height="50">
+<img src="images/f_g1.png" height="50">
 
 for w > 1.
 
@@ -70,14 +70,8 @@ Hence, as result on obtains
 
 <img src="images/E_complete.png" height="50">
 
-
-
-
-
-
+---
 
 [1] _Pham-Gia, T. "Distributions of the ratios of independent beta variables and applications." Communications in Statistics-Theory and Methods 29.12 (2000): 2693-2715._
 
 [2] _Luke, Yudell L., ed. Special functions and their approximations. Vol. 2. Academic press, 1969._
-
----
