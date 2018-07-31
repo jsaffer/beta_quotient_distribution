@@ -18,7 +18,7 @@ and
 
 <img src="images/p2.png" height="50">
 
-respectively where the Beta function B(a,b) is
+respectively where the Beta function B(_y_,_z_) is
 
 <img src="images/B.png" height="50">
 
