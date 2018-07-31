@@ -2,7 +2,7 @@
 
 According to [1] the probability density function (PDF) of the ratio of two random variables
 
-![](images/w.png)
+<img src="images/w.png" width="100">
 
 which each follow the PDFs of beta distributions
 
@@ -14,7 +14,7 @@ and
 
 respectively where the Beta function B(a,b) is
 
-![](images/B.png)
+![](images/B.png),
 
 is given by
 
