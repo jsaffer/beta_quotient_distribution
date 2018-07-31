@@ -2,19 +2,19 @@
 
 According to [1] the probability density function (PDF) of the ratio of two random variables
 
-<img src="images/w.png" width="100">
+<img src="images/w.png" height="50">
 
 which each follow the PDFs of beta distributions
 
-<img src="images/p1.png" width="100">
+<img src="images/p1.png" height="50">
 
 and
 
-<img src="images/p2.png" width="100">
+<img src="images/p2.png" height="50">
 
 respectively where the Beta function B(a,b) is
 
-<img src="images/B.png" width="100">
+<img src="images/B.png" height="50">
 
 is given by
 
