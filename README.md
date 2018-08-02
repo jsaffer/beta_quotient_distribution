@@ -1,4 +1,4 @@
-# Beta Quotient Distribution
+# Betta Quotient Distribution
 
 <img src="images/beta_beta_pdf_cdf.png">
 
