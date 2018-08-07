@@ -64,7 +64,7 @@ for w>1.
 
 ## Expectation Values
 
-For the expectation value of a fraction _x_/_y_ one generally has:
+For the expectation value of a fraction _x_/_y_, where _x_ and _y_ follow beta distributions as above, one generally has:
 
 <img src="images/E_frac.png" height="50">
 
@@ -76,7 +76,9 @@ and
 
 <img src="images/E_yinv.png" height="50">
 
-in the case of _x_ and _y_ following beta distributions as above.
+where one uses the representation of the beta function with gamma functions as stated above together with their property
+
+<img src="images/gamma.png" height="50">
 
 Hence, as result one obtains
 
