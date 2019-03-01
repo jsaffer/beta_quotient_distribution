@@ -74,11 +74,11 @@ with
 
 and
 
-<img src="images/E_yinv.png" height="50">
+<img src="images/E_yinv.png" height="75">
 
 where one uses the representation of the beta function with gamma functions as stated above together with their property
 
-<img src="images/gamma.png" height="50">
+<img src="images/gamma.png" height="25">
 
 Hence, as result one obtains
 
